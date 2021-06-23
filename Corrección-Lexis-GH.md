@@ -99,7 +99,8 @@ año 1999) a la universidad debería verse así o al menos pertenecer al
 rango marcado con azul, es decir, tener entre 19 a 20 años. Si nacieron
 otro año o entraron en otra generación indicar. Al menos si entraton en
 la generación 2018 debería estar dentro de la línea verde que indica el
-año 2019.
+año 2019.  
+
 ![](imagenes/unnamed-chunk-8-1.png)
 
 ------------------------------------------------------------------------
