@@ -20,7 +20,7 @@ Y** va la *Edad en años*.
     ## x dplyr::filter() masks stats::filter()
     ## x dplyr::lag()    masks stats::lag()
 
-![](Corrección-Lexis-GH_files/figure-markdown_strict/unnamed-chunk-1-1.png)
+![](imagenes/unnamed-chunk-1-1.png)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ entra (inmigrando) a la población.
 
 • 4 Dibuje un diagrama de Lexis desde el año 1999 al año 2004 partiendo
 desde 0 a 5 años. (3 ptos)  
-![](Corrección-Lexis-GH_files/figure-markdown_strict/unnamed-chunk-2-1.png)
+![](imagenes/unnamed-chunk-2-1.png)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ desde 0 a 5 años. (3 ptos)
 2000. ¿Cuál es su Cohorte? ¿Qué edad tenia para el año 2003? (5 ptos)  
 El Cohorte esta indicado en color verde y es el del año 2000. En el año
 2003 tiene 3 años, ya que cumple años el 1 de enero.
-![](Corrección-Lexis-GH_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![](imagenes/unnamed-chunk-3-1.png)
 
 ------------------------------------------------------------------------
 
@@ -61,13 +61,13 @@ El Cohorte esta indicado en color verde y es el del año 2000. En el año
 salió el individuo de la población? (5 ptos)  
 El individuo salió a los 2 años de la población.
 
-![](Corrección-Lexis-GH_files/figure-markdown_strict/unnamed-chunk-4-1.png)
+![](imagenes/unnamed-chunk-4-1.png)
 
 ------------------------------------------------------------------------
 
 • 7 Dibuje un diagrama desde el año 2012 hasta el año 2020. Comenzando
 de los 15 años hasta los 22. (5 ptos)  
-![](Corrección-Lexis-GH_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+![](imagenes/unnamed-chunk-5-1.png)
 
 ------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ de los 15 años hasta los 22. (5 ptos)
 que nació el 10 de mayo de 1997. ¿Cuál es su cohorte? Marque en otro
 color. ¿Qué edad tiene en el 2012? ¿Qué edad tiene al 2019? (5 ptos)  
 R: Tiene 15 años en el 2012 y 21 en 2019. Su cohorte es el de 1997
-![](Corrección-Lexis-GH_files/figure-markdown_strict/unnamed-chunk-6-1.png)
+![](imagenes/unnamed-chunk-6-1.png)
 
 ------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ Marque su cohorte. ¿Qué edad tenia cuando salió del grupo? Marque la
 edad con otro color. (5 ptos)  
 El individuo tenia 20 años cuando salio de la población y su cohorte
 corresponde al del 1995.  
-![](Corrección-Lexis-GH_files/figure-markdown_strict/unnamed-chunk-7-1.png)
+![](imagenes/unnamed-chunk-7-1.png)
 
 ------------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ rango marcado con azul, es decir, tener entre 19 a 20 años. Si nacieron
 otro año o entraron en otra generación indicar. Al menos si entraton en
 la generación 2018 debería estar dentro de la línea verde que indica el
 año 2019.
-![](Corrección-Lexis-GH_files/figure-markdown_strict/unnamed-chunk-8-1.png)
+![](imagenes/unnamed-chunk-8-1.png)
 
 ------------------------------------------------------------------------
 
