@@ -2,4 +2,4 @@
 layout: default
 ---
 
-{% Corrección-Lexis-GH.md %}
+{% Correccion-Lexis-GH.md %}
